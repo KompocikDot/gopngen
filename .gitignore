@@ -76,6 +76,7 @@ fabric.properties
 
 # IntelliJ project files
 vpnbot/.idea
+.idea
 *.iml
 out
 gen
