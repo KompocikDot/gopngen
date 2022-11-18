@@ -1,0 +1,4 @@
+pywinauto==0.6.8
+playwright==1.27.1
+playwright-stealth==1.0.5
+opencv-python==4.6.0.66

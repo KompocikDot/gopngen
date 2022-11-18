@@ -1,4 +1,4 @@
-import installapp
+from installapp import automate
 
 if __name__ == "__main__":
-    pass
+    automate.AutomateBot("https://brightvpn.com/?lang=pl-pl")
