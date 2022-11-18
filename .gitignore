@@ -83,3 +83,5 @@ gen
 
 
 servergen/.settings
+
+**/__pycache__/

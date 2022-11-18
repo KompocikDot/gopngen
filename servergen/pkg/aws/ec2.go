@@ -59,8 +59,6 @@ func readEnvsAndFlags() (*string, *string){
 
 func CreateInstanceCmd() {
 	// look into it, maybe it can be useful :) https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-windows-user-data.html
-	// for monitoring while downloading files https://stackoverflow.com/questions/34338897/python-selenium-find-out-when-a-download-has-completed
-	// use for 
 	name, value := readEnvsAndFlags()
 
 	cfg, err := config.LoadDefaultConfig(context.TODO())

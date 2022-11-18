@@ -12,6 +12,6 @@
 
  - python
    - playwright (may switch to pure `requests` later)
-   - pyautogui
+   - pywinauto
    
  - docker (soon)

@@ -63,4 +63,4 @@ class AutomateBot:
         x, y = pyautogui.locateCenterOnScreen("./turn_on_btn.png", confidence=0.9)
         pyautogui.click(x, y)
 
-        # send request to some kind of an API to know what's happening
+        # Send request to some kind of an API to know what's happening.
